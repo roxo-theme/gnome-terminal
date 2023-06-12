@@ -1,0 +1,14 @@
+# vim: ft=ini
+[/]
+background-color='rgb(18,13,23)'
+bold-color-same-as-fg=true
+bold-is-bright=false
+cursor-background-color='rgb(162, 136, 222)'
+cursor-colors-set=true
+cursor-foreground-color='rgb(237, 236, 238)'
+foreground-color='rgb(237, 236, 238)'
+highlight-background-color='rgb(180, 190, 238)'
+highlight-colors-set=true
+palette=['rgb(17,15,24)', 'rgb(243,139,168)', 'rgb(148,226,213)', 'rgb(247,186,162)', 'rgb(180,190,238)', 'rgb(243,139,168)', 'rgb(148,226,213)', 'rgb(237,236,238)', 'rgb(61,61,61)', 'rgb(137,180,239)', 'rgb(193,138,198)', 'rgb(108,162,197)', 'rgb(180,190,238)', 'rgb(180,190,238)', 'rgb(148,226,213)', 'rgb(237,236,238)']
+use-theme-colors=false
+visible-name='Roxo Theme'
